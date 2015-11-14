@@ -1,0 +1,25 @@
+{
+  "name": "bitters-node",
+  "description": "Scaffold styles, variables and structure for Bourbon projects.",
+  "main": "Gulpfile.js",
+  "authors": [
+    "thoughtbot (http://thoughtbot.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bourbon",
+    "css",
+    "sass",
+    "scss",
+    "scaffold"
+  ],
+  "homepage": "https://github.com/dYale/bitters",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
