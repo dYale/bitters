@@ -1,5 +1,5 @@
 {
-  "name": "bitters-node",
+  "name": "bitters",
   "version": "1.1.0",
   "description": "Scaffold styles, variables and structure for Bourbon projects.",
   "main": "Gulpfile.js",
